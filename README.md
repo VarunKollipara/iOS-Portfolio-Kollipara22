@@ -19,4 +19,9 @@
 * I am currently working on an app with a classmate that will allow student to express their thoughts on classes offered at our school and allow upcoming students to see what other people think of their classes.
 
 
+##[Sticker App](https://github.com/EPHS-iOS/Stickers)
+* I created some stickers for our sticker app.
+
+
+
 
