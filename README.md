@@ -20,8 +20,14 @@
 
 
 ## [Sticker App](https://github.com/EPHS-iOS/Stickers)
-* I created some stickers for our sticker app.
+* I created some stickers for our sticker app; the stickers are gifs so they are broken into numerous frames.
+* Here are some example frames
 
+![New Piskel-1 png](https://user-images.githubusercontent.com/60491044/162843757-a47c65e0-c1f1-4c61-b3bd-96647f5a824d.png)
+![New Piskel-4 png](https://user-images.githubusercontent.com/60491044/162843776-43e05ffb-a809-4e1d-b620-4a4700d4251a.png)
+![New Piskel-30 png](https://user-images.githubusercontent.com/60491044/162843795-35cd2158-9610-46fd-91a4-9a7440aa73eb.png)
 
-
+![output-onlinegiftools-2-removebg-preview](https://user-images.githubusercontent.com/60491044/162843830-ddc9a3b5-3158-405e-a9f1-4fe7ab06c8f0.png)
+![output-onlinegiftools-11-removebg-preview](https://user-images.githubusercontent.com/60491044/162843841-acb7b78b-1ad7-4185-89f3-c1d91eebec1d.png)
+![output-onlinegiftools-12-removebg-preview](https://user-images.githubusercontent.com/60491044/162843861-18c123d3-8090-441e-bb58-74aad226ed72.png)
 
