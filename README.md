@@ -16,7 +16,7 @@
 
 ## [EPHS Class Rater](https://github.com/colenelson33/EPHSRatr)
 ![icon_76pt](https://user-images.githubusercontent.com/60491044/162061257-6f971342-c732-4207-813a-07f37a61e4e2.png)
-* I am currently working on an app with a classmate that will allow student to express their thoughts on classes offered at our school and allow upcoming students to see what other people think of their classes.
+* Class Rater is an app that I created with with one of my classmates. It allows users to input their grades and average homework for each class that they took. Users will be able to see the average grade and homework for every class. There is also a tool that allows users to create mock schedules while taking into account what the average grades and difficulty for each class. 
 
 
 ## [Sticker App](https://github.com/EPHS-iOS/Stickers)
